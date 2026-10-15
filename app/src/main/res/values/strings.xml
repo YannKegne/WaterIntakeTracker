@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Water Intake Tracker</string>
+    <string name="hint_amount">Amount (oz)</string>
+    <string name="hint_notes">Notes (optional)</string>
+    <string name="save_entry">Log Water</string>
+    <string name="history">History</string>
+    <string name="empty_list">No entries yet — log your first glass!</string>
+    <string name="entry_saved">Entry saved</string>
+    <string name="error_invalid_amount">Enter an amount greater than 0</string>
+    <string name="amount_format">💧 %1$s oz</string>
+    <string name="today_total_format">Today: %1$s oz</string>
+</resources>
